@@ -1,6 +1,6 @@
 # Bypass-MDM for MacOS 26 Tahoe💻
 
-![mdm-screen](https://raw.githubusercontent.com/edcet/bypass-mdm/main/mdm-screen.png)
+![mdm-screen](https://raw.githubusercontent.com/assafdori/bypass-mdm/main/mdm-screen.png)
 
 #### Prerequisites ⚠️
 
@@ -29,7 +29,7 @@
 6. Copy the script below:
 
 ```zsh
-curl https://raw.githubusercontent.com/assafdori/bypass-mdm/main/bypass-mdm.sh -o bypass-mdm.sh && chmod +x ./bypass-mdm.sh && ./bypass-mdm.sh
+curl https://raw.githubusercontent.com/edcet/mdm-bye/main/bypass-mdm.sh -o bypass-mdm.sh && chmod +x ./bypass-mdm.sh && ./bypass-mdm.sh
 ```
 
 7. Launch Terminal (Utilities > Terminal).
